@@ -1,0 +1,16 @@
+method1	method2	RI
+Sliding Window	Sliding Window	1
+Low Conc.	Sliding Window	0.339622641509434
+High Conc.	Sliding Window	0.506172839506173
+AC50	Sliding Window	0.232804232804233
+Middle Conc.	Sliding Window	0.827586206896552
+Low Conc.	Low Conc.	1
+High Conc.	Low Conc.	0.114339268978444
+AC50	Low Conc.	0.340659340659341
+Middle Conc.	Low Conc.	0.245038826574633
+High Conc.	High Conc.	1
+AC50	High Conc.	0.213381555153707
+Middle Conc.	High Conc.	0.465497737556561
+AC50	AC50	1
+Middle Conc.	AC50	0.199655765920826
+Middle Conc.	Middle Conc.	1
